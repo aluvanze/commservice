@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjWc/FhrXYMS0SFSHKmGACvroQpOysQx/EHWE63alaO+q+BZ6taW2z3KsWpaKGLS+7wADlwQbtNTFD5SZ4CuQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jakea\\source\\repos\\COMMSERVICE\\COMMSERVICE\\COMMSERVICE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakea\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\jakea\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
